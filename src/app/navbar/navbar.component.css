@@ -1,0 +1,29 @@
+.flex-container{
+    width: 100% 
+}
+.flex-container div{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 30px;
+    background-color: black;
+    width: 100%
+    
+}
+.flex-container {
+    display: flex;
+  }
+
+ul li{
+list-style-type:none;
+display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+  }
+
+  a:link {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+  
+  
