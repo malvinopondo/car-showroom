@@ -4,6 +4,8 @@
     background-color: white;
     margin-top: 0;
     margin-bottom: 0;
+    justify-content: space-around;
+    flex-flow: row;
 }
 .container-2 img{
    height: auto;
