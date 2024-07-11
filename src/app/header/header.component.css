@@ -8,24 +8,32 @@
     flex-flow: row;
 }
 .container-2 img{
-   height: auto;
-   width: 30px;
+   height: 3px;
+   width: 3px;
 }
 .container-3 img{
-    height: auto;
-    width: 40px;
+    width: 30px;
+  height: 30px;
+  margin: 0 5px;
 }
 .container-1 img{
-    height: auto;
-    width: 20px;
-}
-.container img{
-    height: 40px;
-    width: 60px;
-    justify-content: space-between;
-}
-.button{
-    border-radius: 12px;
+    height: 100px;
+    width: 120px;
+    justify-content: space-around;
+    display: grid;
 }
 
-
+.container-2 p{
+    font-weight: bold;
+}
+.container-3 p{
+    font-weight: bold;
+    font-size: 0.7em;
+}
+.container-1{
+    font-weight: bold;
+    display: inline-block;
+}
+span {
+    color:black;     
+}
