@@ -37,7 +37,8 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/typeface-muli/index.css" 
             ],
             "scripts": [],
             "server": "src/main.server.ts",
@@ -111,4 +112,5 @@
   "cli": {
     "analytics": "8d0839b9-d29d-4ad2-9f77-b24d1daa8dca"
   }
+ 
 }
